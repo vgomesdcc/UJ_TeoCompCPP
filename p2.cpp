@@ -7,7 +7,7 @@ int main() {
 	cin>>n1>>n2;
 	
 	if(n1==n2){
-		cout<<"o numeros sao iguais\n";
+		cout<<"os numeros sao iguais\n";
 	}
 	
 	else if(n1>n2){
