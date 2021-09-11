@@ -18,7 +18,7 @@ int main () {
 	}
 	
 	if(perfeito1==flag1 && perfeito2==flag2){
-		cout<<"Sao divisores perfeitos";
+		cout<<"Sao divisores perfeitos\n";
 	}
 	else
 		cout<<"Nao sao divisores perfeitos\n";
